@@ -1,0 +1,6 @@
+<iostream.h> input and ouput
+cmath
+cstring
+string
+vector->dynamic array
+fstream->file handling

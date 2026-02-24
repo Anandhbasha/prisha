@@ -7,9 +7,10 @@ int main(){
     double d = 99.999;
     long e = 12454545;
     bool working = true;
-    // string name = "Hello";
+    std::string name = "Hello";
     int x;
     // void No return value functions
+    // std::namespace
 
     std::cout<<a <<std::endl;
 
@@ -18,7 +19,9 @@ int main(){
     std::cout<<c <<std::endl;
     std::cout<<d <<std::endl;
     std::cout<<e <<std::endl;
-    std::cout<<working <<std::endl;
+    std::cout<< working <<std::endl;
+    std::cout<< name <<std::endl;
+    //end1->nextline
 
     return 0;
 }
